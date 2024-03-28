@@ -1,0 +1,34 @@
+
+
+[
+  {
+    "id": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/epic-designers-builders.appspot.com/o/House1%2FfrontImage.jpeg?alt=media&token=6cd03e98-638e-4510-99bf-ea3fa19717d3",
+    "title": "House 1",
+    "description": "A haven of red laterite tiles and cool, natural wood, this Kerala-style house rises gracefully against the lush greenery. The distinctive sloping roof, perfect for heavy monsoon rains, extends generously, casting a cool shade over the expansive verandah below. Ornate wooden pillars support the roof, offering a glimpse of the craftsmanship that defines this architectural style.",
+    "Location": "Changanassery",
+    "sqft":"2920",
+    "bhk":"5",
+    "date": "April 22, 2022"
+  },
+  {
+    "id": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/epic-designers-builders.appspot.com/o/house2%2FfrontImage.jpeg?alt=media&token=b3446833-be93-4a4d-83f4-a970a32f3ecc",
+    "title": "House 2",
+    "description": "The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.",
+    "Location": "Pala",
+    "sqft":"2550",
+    "bhk":"4",
+    "date": "April 22, 2022"
+  },
+  {
+    "id": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/epic-designers-builders.appspot.com/o/House3%2FfrontImage.jpeg?alt=media&token=147697d8-03b5-4412-8c72-61dc6c92dda7",
+    "title": "House 3",
+    "description": "The results have been incredible. With Power Digital, it feels like they’re in our trench, supporting and understanding us. They’re like a partner and mentor in helping us get where we want to be. “The results have been incredible.",
+    "Location": "Kanjirappaly",
+    "sqft":"2980",
+    "bhk":"5",
+    "date": "April 22, 2022"
+  }
+]
